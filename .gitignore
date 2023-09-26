@@ -17,7 +17,6 @@ junit-results.xml
 *.nii.gz
 *.tar.*
 *.egg*
-*.mat
 *.tmproj
 .DS_Store
 build

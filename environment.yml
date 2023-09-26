@@ -4,3 +4,10 @@ dependencies:
   - mne
   - pandas
   - ipython
+channels:
+  - conda-forge
+dependencies:
+  - mne
+  - pandas
+  - pip
+  - ipython

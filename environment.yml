@@ -4,6 +4,7 @@ dependencies:
   - mne
   - pandas
   - ipython
+  - seaborn
   - pip
   - pip:
     - obob_condor

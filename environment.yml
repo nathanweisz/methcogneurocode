@@ -2,6 +2,7 @@ channels:
   - conda-forge
 dependencies:
   - mne
+  - mne-connectivity
   - pandas
   - ipython
   - seaborn
@@ -9,3 +10,4 @@ dependencies:
   - pip:
     - obob_condor
     - pyvista
+    - trane
